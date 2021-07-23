@@ -6,7 +6,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
-  <img alt="Node" src="https://img.shields.io/badge/Node-9acd32?logo=nodejs&logoColor=white&style=for-the-badge" />
+  <img alt="Node" src="https://img.shields.io/badge/Node-9acd32?logo=nodejs&logoColor=brown&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express-dddddd?logo=express&logoColor=white&style=for-the-badge" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-3895d3?logo=postgres&logoColor=white&style=for-the-badge" />
  
