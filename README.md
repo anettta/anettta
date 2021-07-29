@@ -13,6 +13,7 @@
   <p> <img alt="Node" src="https://img.shields.io/badge/Node-9acd32?logo=nodejs&logoColor=black&style=for-the-badge" /> </p>
   <p> <img alt="Express" src="https://img.shields.io/badge/Express-dddddd?logo=express&logoColor=white&style=for-the-badge" /> </p>
  <p> <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-3895d3?logo=postgres&logoColor=white&style=for-the-badge" /> </p>
+  <p> <img alt="Swift" src="https://img.shields.io/badge/Swift-ff4f00?logo=swift&logoColor=white&style=for-the-badge" /> </p>
  
 
 
