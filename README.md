@@ -1,4 +1,4 @@
-<h1> Hello, my name is Anna. </h1>
+<h1> Hello there 🤝 </h1>
 <h3 > Technologies: </h3>
 <hr  />
 
@@ -10,8 +10,8 @@
  <p> <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" /> </p>
  <p> <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" /> </p>
   <p> <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" /> </p>
-  <p> <img alt="Node" src="https://img.shields.io/badge/Node-9acd32?logo=nodejs&logoColor=black&style=for-the-badge" /> </p>
-  <p> <img alt="Express" src="https://img.shields.io/badge/Express-dddddd?logo=express&logoColor=white&style=for-the-badge" /> </p>
+  <p> <img alt="Node" src="https://img.shields.io/badge/Node-3c873a?logo=nodejs&logoColor=black&style=for-the-badge" /> </p>
+  <p> <img alt="Express" src="https://img.shields.io/badge/Express-c1c1c1?logo=express&logoColor=white&style=for-the-badge" /> </p>
  <p> <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-3895d3?logo=postgres&logoColor=white&style=for-the-badge" /> </p>
   <p> <img alt="Swift" src="https://img.shields.io/badge/Swift-ff4f00?logo=swift&logoColor=white&style=for-the-badge" /> </p>
  
