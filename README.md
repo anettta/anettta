@@ -1,6 +1,6 @@
 <h1> Hello there 🤝 </h1>
 <h3 > Technologies: </h3>
-<hr  />
+
 
 
  <p>  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /> </p>
