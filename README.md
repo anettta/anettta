@@ -1,7 +1,7 @@
 ### Hi there 👋🏻
 
 - Pronouns: She/Her
-- 💬 Ask me about web development, shotokan karate, running, photography, nature places, baking, traveling.
+- 💬 Ask me about web development, shotokan karate, running, photography, nature places, cake baking, traveling.
 - 📫 How to reach me: annagapyuk@gmail.com 
 
 
