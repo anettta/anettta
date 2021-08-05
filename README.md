@@ -1,5 +1,10 @@
-<h1> Hello there 🤝 </h1>
-<h4 > Technologies: </h4>
+### Hi there 👋🏻
+
+- Pronouns: She/Her
+- 💬 Ask me about web development, shotokan karate, running, photography, nature places, baking, traveling.
+- 📫 How to reach me: annagapyuk@gmail.com 
+
+
 
 
 
