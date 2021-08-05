@@ -1,11 +1,15 @@
+<div style="display:flex; text-decoration:none; flex-wrap:wrap; justify-content:center">
+
 ### Hi there 👋🏻
 
+
 - Pronouns: She/Her
-- 💬 Ask me about web development, shotokan karate, running, photography, nature places, cake baking, traveling.
-- 📫 How to reach me: annagapyuk@gmail.com 
+ - Ask me about <b>web development, shotokan karate, running, photography, nature places, cake baking, traveling.</b>
+- How to reach me: <b> annagapyuk@gmail.com </b>
 
 
 
+### Technologies: 
 
 
  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /> 
@@ -19,6 +23,7 @@
  <img alt="Express" src="https://img.shields.io/badge/Express-c1c1c1?logo=express&logoColor=white&style=for-the-badge" /> 
  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-3895d3?logo=postgres&logoColor=white&style=for-the-badge" /> 
   <img alt="Swift" src="https://img.shields.io/badge/Swift-ff4f00?logo=swift&logoColor=white&style=for-the-badge" /> 
+ </div>
  
 
 
