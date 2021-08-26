@@ -1,6 +1,6 @@
 <div style="display:flex;text-align:center; text-decoration:none; flex-wrap:wrap; justify-content:center">
 
-### Hi there! 👋🏻
+### Hi there!
 
 
 - Pronouns: She/Her
