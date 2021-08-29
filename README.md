@@ -4,7 +4,7 @@
 
 
 - Pronouns: She/Her
- - Ask me about <b>web development, shotokan karate, filing income taxes, running, nature photography, cake baking, traveling.</b>
+ - Ask me about <b>web development, shotokan karate, running, nature photography, cake baking, traveling.</b>
 - How to reach me: <b> annagapyuk@gmail.com </b>
 
 
