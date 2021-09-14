@@ -1,4 +1,4 @@
-<div style="display:flex;text-align:center; flex-wrap:wrap; justify-content:center">
+<div style="display:flex;text-align:center; flex-wrap:wrap; justify-content:center; align-items: center">
 
 ### Hi there!
 
