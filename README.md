@@ -1,10 +1,10 @@
 <div style="display:flex;text-align:center; flex-wrap:wrap; justify-content:center; align-items: center">
 
-### Hi there!
+### Hi there! 
 
 
 - Pronouns: She/Her/Hers
- - Ask me about <b>web development, shotokan karate, road running, hiking, cycling, nature abstract photography, baking, traveling.</b>
+ - Ask me about <b>web development, shotokan karate, road running, hiking, cycling, nature abstract photography, cake baking, traveling.</b>
 - How to reach me: <b> annagapyuk@gmail.com </b>
 
 
