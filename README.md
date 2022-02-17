@@ -8,7 +8,6 @@
 - How to reach me: <b> annagapyuk@gmail.com </b>
 
 
- <hr>
  
 ### TECHNICAL STACK: 
 
