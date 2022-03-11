@@ -13,7 +13,7 @@
 
 - JavaScript(NodeJS), Swift
 - HTML5, CSS3, SCSS
-- ReactJS, Redux, ExpressJS, Webpack, GatsbyJS
+- ReactJS, Redux, ExpressJS, Webpack, NPM, GatsbyJS
 - SQL, MySQL, Postgres, GrapgQL
 - GIT
 
