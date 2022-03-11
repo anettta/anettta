@@ -1,6 +1,6 @@
 <div style="display:flex;text-align:center; flex-wrap:wrap; justify-content:center; align-items:center">
 
-### Hello there! 👋🏻
+### Hello there! 👋🏻 
 
 
 - Pronouns: She/Her/Hers.
@@ -11,7 +11,9 @@
  
 ### TECHNICAL STACK: 
 
-
+- JavaScript(NodeJS), Swift, C++
+- ReactJS, ExpressJS, Webpack, GatsbyJS
+- SQL, MySQL, Postgres, GrapgQL
 
  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" /> 
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" /> 
