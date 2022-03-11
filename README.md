@@ -11,7 +11,7 @@
  
 ### TECHNICAL STACK: 
 
-- JavaScript(NodeJS), Swift, C++
+- JavaScript(NodeJS), Swift
 - HTML5, CSS3, SCSS
 - ReactJS, Redux, ExpressJS, Webpack, GatsbyJS
 - SQL, MySQL, Postgres, GrapgQL
