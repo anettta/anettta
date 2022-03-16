@@ -1,6 +1,6 @@
 <div style="display:flex;text-align:center; flex-wrap:wrap; justify-content:center; align-items:center">
 
-### HI THERE!
+### HELLO THERE!
 
 
 - Pronouns: She/Her/Hers.
