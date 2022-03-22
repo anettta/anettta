@@ -4,6 +4,7 @@
 
 
 - Pronouns: She/Her/Hers.
+- Ukrainian 🇺🇦
  
 - How to reach me: <b> annagapyuk@gmail.com </b>
 
