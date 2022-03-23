@@ -1,11 +1,10 @@
 <div style="display:flex;text-align:center; flex-wrap:wrap; justify-content:center; align-items:center">
 
-### Hello there!
+### Hi there!
 
 
 - Pronouns: She/Her/Hers.
 - Ukrainian 🇺🇦
- 
 - How to reach me: <b> annagapyuk@gmail.com </b>
 
 
