@@ -13,6 +13,6 @@
 
 - JavaScript(NodeJS), Swift
 - HTML5, CSS3, SCSS, Bootstrap
-- ReactJS, Redux, ExpressJS, Webpack, NPM, GatsbyJS, NextJS
+- ReactJS, Redux, Axios, Webpack, NPM, GatsbyJS, NextJS
 - SQL, MySQL, Postgres, GraphQL
 
