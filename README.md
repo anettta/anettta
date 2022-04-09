@@ -9,7 +9,7 @@
 
 
  
-### Technical Stack: 
+### **Technical Stack:** 
 
 - JavaScript(NodeJS), Swift
 - HTML5, CSS3, SCSS, Bootstrap
