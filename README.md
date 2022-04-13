@@ -4,7 +4,7 @@
 >
 >  First is **the sheer joy of making things**. As the child delights in his mud pie, so the adult enjoys building things, especially things of his own design.
 >
->  From the book ***Mythical Man-Month: Essays on Software Engineering*** by *Frederick P. Brooks, Jr*.
+From the book ***Mythical Man-Month: Essays on Software Engineering*** by *Frederick P. Brooks, Jr*.
 
 
 
