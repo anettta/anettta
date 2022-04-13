@@ -10,7 +10,6 @@
 
 ## Hi there!
 
-
 - Pronouns: She/Her/Hers.
 - **Ukrainian** 🇺🇦
 - How to reach me: **annagapyuk@gmail.com** 
