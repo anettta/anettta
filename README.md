@@ -13,7 +13,7 @@ In my free time, I find joy in engaging in various activities such as running, a
 
 
 
- **SUPPORT UKRAINE!** [HELP UKRAINE LIST 🇺🇦](https://helpukrainelist.vercel.app/)
+HELP UKRAINE LIST 🇺🇦 (https://helpukrainelist.vercel.app/)
 
 
  
