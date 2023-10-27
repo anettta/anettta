@@ -1,4 +1,4 @@
-I am a Front-End Web Developer with a strong foundation in JavaScript ES6+ and proficiency in popular JavaScript frameworks like React.js, Next.js, and Gatsby.js. Additionally, I have experience with Swift 4 and Xcode for mobile development.
+I am a Full Stack Web Developer with a strong foundation in JavaScript ES6+ and proficiency in popular JavaScript frameworks like React.js, Redux, Express.js, MongoDB and Node.js. Additionally, I have experience with Swift 4 and Xcode for iOS mobile development.
 
 I am a versatile individual who possesses leadership qualities and a determined attitude when it comes to tackling complex and intriguing problems.
 
